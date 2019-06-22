@@ -4,9 +4,9 @@ Hello World
 This is a simple Docker image that just gives http responses on port 8000.
 
 ```bash
-$ docker images | grep hell
+$ docker images 
 REPOSITORY               TAG       IMAGE ID        CREATED          VIRTUAL SIZE
-crccheck/hello-world     latest    2b28c6ad8d1b    4 months ago     1.2MB
+hello-world     latest    2b28c6ad8d1b    4 months ago     1.2MB
 ```
 
 
